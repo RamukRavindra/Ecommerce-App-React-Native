@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "6377000000005068",
+      "name": "EcommerceApp",
+      "domain": {
+        "id": "50018518692",
+        "name": "ecommerceapp-60028168738.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60028168738",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

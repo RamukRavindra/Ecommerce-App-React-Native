@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "364740270781",
+    "project_id": "notificationapp-d6299",
+    "storage_bucket": "notificationapp-d6299.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364740270781:android:6f019ed09435211609b5d4",
+        "android_client_info": {
+          "package_name": "com.ecomm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-RKlJRYiRLiFJAqWRnHsdkj3_5e674AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
