@@ -1,12 +1,12 @@
-import React from 'react'
-import { NavigationContainer } from '@react-navigation/native'
-import NavigationHomeScreen from './src/navigation/NavigationHomeScreen';
+import { NavigationContainer } from "@react-navigation/native";
+import React from "react";
+import DrawerNavigator from "./src/navigation/DrawerNavigator";
 
-export default function App() {
-
+const App = () => {
   return (
     <NavigationContainer>
-      <NavigationHomeScreen />
+      <DrawerNavigator />
     </NavigationContainer>
-  )
-}
+  );
+};
+export default App;
